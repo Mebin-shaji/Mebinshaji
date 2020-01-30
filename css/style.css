@@ -1,0 +1,35 @@
+body{
+    background-color: #f9f6f7;
+    width: 85%;
+    margin: 2em auto;
+
+}
+.formpadding{
+    margin-top:22px ;
+}
+.heading{
+ text-align: center;
+ margin-top: 2em;
+}
+hr{
+    box-sizing: border-box;
+    border: 4px dashed #fd5e53;
+    width:85% ;
+}
+.quest{
+    background-color: aliceblue;
+    width: 100%;
+    margin: 1em auto;
+    display: block;
+}
+.que{
+    margin:1em 1em ;
+}
+.back{
+    background-color: #ffffff;
+}
+.rad{
+    display: block;
+    padding-bottom: 1em;
+    margin-left: 1.5em;
+}
